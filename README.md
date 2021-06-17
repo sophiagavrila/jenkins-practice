@@ -6,4 +6,6 @@
 3. We will first build a test suite to test our service layer within the `src/test/java` folder.
 5. After building the test suite, push all changes to this remore repository.
 
-After setting up the test suite for our dummy application, we will add a Github webhook so that every time a change is pushed to the remote repo of this app, it will trigger a Jenkins Build Job that runs our tests. 🤖 *CONTINUOUS INTEGRATION*
+After setting up the test suite for our dummy application, we will add a Github webhook so that every time a change is pushed to the remote repo of this app, it will trigger a Jenkins Build Job that runs our tests. 🤖 
+
+> *THIS IS CALLED **CONTINUOUS INTEGRATION***
