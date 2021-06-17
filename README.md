@@ -1,4 +1,4 @@
-# Demo Application
+# Demo Application for DevOps Practice
 *This repository is a copy of the `HelloFrontController` demo we recently delpoyed on an AWS EC2 Instance*.
 
 <br>
